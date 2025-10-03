@@ -14,12 +14,15 @@ My journey in computer science and experience as a SOC Analyst has led me to dev
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Azure Sentinel          | <a href="https://google.com](https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
+| KQL Queries             | <a href="https://google.com](https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
+| Threat Hunting          | <a href="https://google.com](https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
+| Splunk                  | SIEM Log Analysis and Threat Investigation|
+| Cybersecurity Analytics | SIEM Log Analysis and Threat Investigation|
+| Log Analysis            | SIEM Log Analysis and Threat Investigation|
+| Web Application Security                       | <a href="https://github.com/rohan-dalvi1402/web-vulnerability-mitigation">Web Vulnerability Mitigation</a>|
+| Vulnerability Assessment & Mitigation          | <a href="https://github.com/rohan-dalvi1402/web-vulnerability-mitigation">Web Vulnerability Mitigation</a>|
+| Scripting and Automation for Threat Mitigation | Real-Time Intrusion Detection and Threat Monitoring System|
 
 ## Tools
 
