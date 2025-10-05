@@ -14,12 +14,12 @@ My journey in computer science and experience as a SOC Analyst has led me to dev
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure Sentinel          | <a href="https://google.com](https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
-| KQL Queries             | <a href="https://google.com](https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
-| Threat Hunting          | <a href="https://google.com](https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
-| Splunk                  | SIEM Log Analysis and Threat Investigation|
-| Cybersecurity Analytics | SIEM Log Analysis and Threat Investigation|
-| Log Analysis            | SIEM Log Analysis and Threat Investigation|
+| Azure Sentinel          | <a href="https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
+| KQL Queries             | <a href="https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
+| Threat Hunting          | <a href="https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
+| Splunk                  | <a href="https://github.com/rohan-dalvi1402/SIEM-Log-Analysis-and-Threat-Investigation">SIEM Log Analysis and Threat Investigation</a>|
+| Cybersecurity Analytics | <a href="https://github.com/rohan-dalvi1402/SIEM-Log-Analysis-and-Threat-Investigation">SIEM Log Analysis and Threat Investigation</a>|
+| Log Analysis            | <a href="https://github.com/rohan-dalvi1402/SIEM-Log-Analysis-and-Threat-Investigation">SIEM Log Analysis and Threat Investigation</a>|
 | Web Application Security                       | <a href="https://github.com/rohan-dalvi1402/web-vulnerability-mitigation">Web Vulnerability Mitigation</a>|
 | Vulnerability Assessment & Mitigation          | <a href="https://github.com/rohan-dalvi1402/web-vulnerability-mitigation">Web Vulnerability Mitigation</a>|
 | Scripting and Automation for Threat Mitigation | Real-Time Intrusion Detection and Threat Monitoring System|
