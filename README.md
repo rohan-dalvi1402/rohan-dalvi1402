@@ -16,10 +16,10 @@ My journey in computer science and experience as a SOC Analyst has led me to dev
 |-----------------------------------------------|----------------------------|
 | Azure Sentinel          | <a href="https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
 | Threat Hunting          | <a href="https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
-| Secure REST API Development   | <a href="https://github.com/rohan-dalvi1402/MobXcess-Secure-Server-Access">MobXcess-Secure-Server-Access</a>|
-| Cryptography (RSA Encryption) | <a href="https://github.com/rohan-dalvi1402/MobXcess-Secure-Server-Access">MobXcess-Secure-Server-Access</a>|
 | Splunk                  | <a href="https://github.com/rohan-dalvi1402/SIEM-Log-Analysis-and-Threat-Investigation">SIEM Log Analysis and Threat Investigation</a>|
 | Cybersecurity Analytics | <a href="https://github.com/rohan-dalvi1402/SIEM-Log-Analysis-and-Threat-Investigation">SIEM Log Analysis and Threat Investigation</a>|
+| Secure REST API Development   | <a href="https://github.com/rohan-dalvi1402/MobXcess-Secure-Server-Access">MobXcess-Secure-Server-Access</a>|
+| Cryptography (RSA Encryption) | <a href="https://github.com/rohan-dalvi1402/MobXcess-Secure-Server-Access">MobXcess-Secure-Server-Access</a>|
 | Web Application Security                       | <a href="https://github.com/rohan-dalvi1402/web-vulnerability-mitigation">Web Vulnerability Mitigation</a>|
 | Vulnerability Assessment & Mitigation          | <a href="https://github.com/rohan-dalvi1402/web-vulnerability-mitigation">Web Vulnerability Mitigation</a>|
 | Scripting and Automation for Threat Mitigation | Real-Time Intrusion Detection and Threat Monitoring System|
@@ -73,5 +73,6 @@ My journey in computer science and experience as a SOC Analyst has led me to dev
 ## Projects
 - Cloud-Based SOC Lab (Microsoft Sentinel)
 - SIEM Analytics & Threat Investigation Lab (Splunk)
+- Secure Server Access System (RSA-Based Authentication)
 - Web Application Vulnerability Mitigation
 - Real-Time Intrusion Detection and Threat Monitoring System
