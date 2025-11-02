@@ -62,12 +62,12 @@ My journey in computer science and experience as a SOC Analyst has led me to dev
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-0078D6?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSAP-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/1caed41e-52ad-4b84-b877-7349449eccbf/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/cb0d7ed1-a1ea-49c9-be95-1b085045b9b8"><img src="https://img.shields.io/badge/-CySA%2B-0078D6?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/971ed9b5-4c66-42d0-a3a7-d9e94f5b5855"><img src="https://img.shields.io/badge/-CSAP-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Cyber%20Threat%20Management-Cisco?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-AZ%20900-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Cloud%20Security-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<a href="https://www.credly.com/badges/d84ac307-a1b7-4fdf-86d8-d014524d8869/public_url"><img src="https://img.shields.io/badge/-AWS%20Cloud%20Security-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" /></a>
 
 </div>
 
