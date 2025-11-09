@@ -1,6 +1,6 @@
 
 # Hello, I'm Rohan Dalvi
-<a href="https://rohan-dalvi-cybersecurit-rzqy3ib.gamma.site/"><img src="https://img.shields.io/badge/-Portfolio-242424?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://rohan-dalvi-cybersecurit-rzqy3ib.gamma.site/"><img src="https://img.shields.io/badge/-Portfolio-FF007F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rohan-dalvi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 <a href="https://www.medium.com/@rohanjdalvi1402"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 
