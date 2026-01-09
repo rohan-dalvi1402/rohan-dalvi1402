@@ -20,6 +20,7 @@ My journey in computer science and experience as a SOC Analyst has led me to dev
 | Threat Hunting          | <a href="https://github.com/rohan-dalvi1402/Azure-SOC-Lab">Azure Sentinel & SOC Automation Lab</a>|
 | Splunk                  | <a href="https://github.com/rohan-dalvi1402/SIEM-Log-Analysis-and-Threat-Investigation">SIEM Log Analysis and Threat Investigation</a>|
 | Cybersecurity Analytics | <a href="https://github.com/rohan-dalvi1402/SIEM-Log-Analysis-and-Threat-Investigation">SIEM Log Analysis and Threat Investigation</a>|
+| Digital Forensics       | <a href="https://github.com/rohan-dalvi1402/Social-Media-Forensics-Disinformation-Tracking">Social Media Forensics & Disinformation-Tracking</a>|
 | Secure REST API Development   | <a href="https://github.com/rohan-dalvi1402/MobXcess-Secure-Server-Access">MobXcess-Secure-Server-Access</a>|
 | Cryptography (RSA Encryption) | <a href="https://github.com/rohan-dalvi1402/MobXcess-Secure-Server-Access">MobXcess-Secure-Server-Access</a>|
 | Web Application Security                       | <a href="https://github.com/rohan-dalvi1402/web-vulnerability-mitigation">Web Vulnerability Mitigation</a>|
