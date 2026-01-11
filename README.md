@@ -77,6 +77,6 @@ My journey in computer science and experience as a SOC Analyst has led me to dev
 - Cloud-Based SOC Lab (Microsoft Sentinel)
 - SIEM Analytics & Threat Investigation Lab (Splunk)
 - Secure Server Access System (RSA-Based Authentication)
-- Social Media Forensics & Disinformation Tracking
+- Applied Social Media Forensics (OSINT-Based)
 - Web Application Vulnerability Mitigation
 - Real-Time Intrusion Detection and Threat Monitoring System
